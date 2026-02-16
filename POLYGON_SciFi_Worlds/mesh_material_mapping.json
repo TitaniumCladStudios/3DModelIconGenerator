@@ -1,0 +1,5991 @@
+{
+  "SM_Bld_Bridge_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Bld_Bridge_End_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Bld_Bridge_Mining_Laser_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Bridge_Platform_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Bridge_Rail_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Bld_Bridge_Rail_End_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Bld_Bridge_Rail_Half_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Bridge_Rail_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Bridge_Strut_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Bld_Column_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Column_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Antenna_Greeble_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Antenna_Greeble_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Observation_Greeble_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Observation_Greeble_02": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Observation_Greeble_Pipe_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Observation_Greeble_Pipe_Base_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Vent_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Vent_Blade_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Core_Vent_Tunnel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Barracks_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Comms_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Comms_01_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Comms_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Comms_Tower_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Comms_Tower_01_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Comms_Tower_01_Dish_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Containment_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Containment_01_Capsule_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Containment_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Containment_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Containment_02_Capsule_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Containment_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Control_Tower_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Control_Tower_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Generator_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Generator_01_Arms_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Generator_01_Tank_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_LandingPad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_LandingPad_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_LandingPad_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_LandingPad_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_LandingPad_03_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_LandingPad_03_Ramp_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_LandingPad_03_Ramp_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Loading_Bay_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Loading_Bay_01_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Loading_Bay_01_Arm_01_Lifter_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Loading_Bay_01_Cargo_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Loading_Bay_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Loading_Bay_01_Lift_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_DoorGlass_01": [
+    "Default-Material"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Glass_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Leg_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Pad_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Leg_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Pad_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Leg_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Pad_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Leg_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_MobileSite_01_Pad_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Platform_01_LowerLeg_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Radar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Radar_01_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Radar_01_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Radar_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Wall_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_01_Half_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_01_Half_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_01_Ramp_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01_Towers_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01_Towers_01 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01_Towers_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01_Turret_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Gate_01_Turret_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_01_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Wall_Tower_01_Turret_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_Corner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_Corner_01_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_Corner_01_Top_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Corp_Wall_Tower_Corner_01_Turret_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Corp_Wall_Tower_Corner_01_Turret_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_01_Shutter_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Balcony_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Balcony_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Crate_Building_Balcony_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Frame_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Ladder_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Pillar_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Crate_Building_Strut_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_01_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_01_Door_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_02_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_02_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_02_Door_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Door_Double_02_Door_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_02_Door_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_03_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_03_Lock_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_03_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_04_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_04_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_05_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_05_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Double_To_Single_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Garage_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Garage_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Garage_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Garage_02_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_02_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_02_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_03_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_03_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_03_Door_02_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Door_Single_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_04_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_04_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_04_Door_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_01_Door_03_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Door_Single_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_05_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Door_Single_05_Door_01_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Elevator_Double_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Elevator_Hover_Double_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Elevator_Hover_Double_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Elevator_Hover_Double_02_Gate_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Elevator_Hover_Double_02_Gate_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Elevator_Hover_Single_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Elevator_Single_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_15": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_16": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_17": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_18": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_19": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_20": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_21": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_22": [
+    "PolygonScifiWorlds_Mat_03_C"
+  ],
+  "SM_Bld_Greeble_22_Fan_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_23": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_24": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_25": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_26": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_26_Terminal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_26_Screen_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_27": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_27_Crusher_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_28": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Greeble_28_Tank_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_LaunchPad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_LaunchPad_01_Support_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_LaunchPad_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_LaunchPad_02_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Light_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "polySurface1137": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "polySurface1141": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "polySurface1142": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "polySurface1143": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Overhang_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Pillar_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Pillar_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Planetary_Cannon_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Planetary_Cannon_01_Base_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Planetary_Cannon_01_Pivot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Planetary_Cannon_01_PowerUnit_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Barrier_Long_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Barrier_Long_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Barrier_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Barrier_Pillar_InnerCorner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Barrier_Pillar_Middle_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Barrier_Short_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Large_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Large_Corner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Small_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Small_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Small_02_Single_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Base_Small_Corner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_Corner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_Corner_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Large_Corner_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_Corner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_Corner_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Small_Corner_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Platform_Stairs_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Pod_Air_Lock_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Air_Lock_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Base_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Base_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Base_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Base_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Round_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_03_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Round_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_04_Platform_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_05": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_05_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Round_Connector_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_Door_Single_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_End_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_End_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Round_End_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_Ramp_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_Support_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_Support_01_Leg_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Round_Support_01_Leg_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Square_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_04_Base_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Square_05": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_05_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Square_Connector_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_Door_Double_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_Door_Single_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_End_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_End_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Corridor_Square_End_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Square_Ramp_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Corridor_Switch_Connector_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Large_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_02_Support_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_02_Leg_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_02_Leg_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_02_Leg_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Large_02_Leg_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_01_Glass_02": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_02_Glass_02": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_02_SolarPanel_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_02_SolarPanel_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_03_Glass_01": [
+    "Glass_01",
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_03_Glass_02": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_03_Glass_03": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_04_Glass_02": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_04_Glass_03": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_04_Glass_04": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_04_Glass_05": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_04_Glass_06": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_02": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_03": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_04": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_05": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_06": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_07": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hab_Small_05_Glass_08": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hub_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hub_01_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Hub_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Hub_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Pad_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Ramp_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Ramp_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_02_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Research_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_03_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Research_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_04_Glass": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Research_05": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Dome_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Dome_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Research_05_Dome_01_Glass_02": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_05": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_06": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_07": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Leg_08": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Light_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Light_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Light_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_05_Light_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_06": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_07": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_07_Satellite_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_07_Dish_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_08": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Research_08_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Pod_Silo_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_02_Base_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_04": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_05": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_06": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_07": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Silo_08": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Support_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Support_01_Leg_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Support_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Support_02_Leg_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Support_03": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Pod_Support_03_Leg_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Bld_Portal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Portal_01_Ring_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Portal_Ramp_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Railing_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Railing_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Attachment_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Dish_01": [
+    "Metal_Rust_02"
+  ],
+  "SM_Bld_Scav_Dish_Background_01": [
+    "Metal_Rust_02"
+  ],
+  "SM_Bld_Scav_Dish_Background_01_Top_01": [
+    "Metal_Rust_02"
+  ],
+  "SM_Bld_Scav_Dish_Base_01": [
+    "Metal_Rust_02"
+  ],
+  "SM_Bld_Scav_Dish_Base_01_Swivel_01": [
+    "Metal_Rust_02"
+  ],
+  "SM_Bld_Scav_Garage_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Garage_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Scav_Refinery_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Scav_Refinery_Control_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Control_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Bend_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Bend_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Bend_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Connector_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Connector_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Half_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Half_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Half_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Pillar_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_01_Window_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Bend_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Bend_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Connector_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Connector_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Half_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Half_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Half_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Pillar_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_02_Pillar_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_Coupling_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pipe_Hub_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pump_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Pump_01_Generator_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Silo_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Silo_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Silo_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Silo_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Silo_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Silo_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Smoke_Stack_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Smoke_Stack_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Refinery_Tower_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Wreckage_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Wreckage_01_Scaffolding_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Wreckage_01_Supports_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Scav_Wreckage_02": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Bld_Tower_Monitors_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_01_Shutter_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_01_Shutter_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_02_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_02_Door_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Bld_Vendor_04_Sign_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_05_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_05_Window_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_05_Window_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_07": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Bld_Vendor_07_Door_01": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Bld_Vendor_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_08_Glass_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Vendor_08_Sign_01": [
+    "Colour_Customizer"
+  ],
+  "SM_Bld_Vendor_08_Stairs_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Watertank_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_WindMill_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_WindMill_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_WindMill_Blade_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_01_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_02_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_03_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_04_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_05_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_06_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_07_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_08_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_09_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_10_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_11_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "polySurface422": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_12_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_13_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_14_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_15": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Window_15_Glass": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_AlienArmor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_AlienChef_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_AlienCombat_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_AlienRock_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_AlienSpikes_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Hat_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Pouch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Tank_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Tool_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Tool_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Tool_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Chef_Tool_04": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Default-Material"
+  ],
+  "SM_Chr_AlienSpikes_Tail_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_03_Hair_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Female_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Scavenger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Scavenger_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Scavenger_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Soldier_Female_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Soldier_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Soldier_Male_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_SpaceSuit_Alien_Female_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_SpaceSuit_Alien_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_SpaceSuit_Female_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_SpaceSuit_Female_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_SpaceSuit_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_SpaceSuit_Male_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_ScifiWorlds_Strider_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_01_Hair_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hat_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_Repair_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Female_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Grenade_Smoke_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Grenade_Smoke_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Grenade_Smoke_01 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Grenade_Smoke_01 (3)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Goggles_Strap_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Goggles_Strap_01_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Hat_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Head_Mask_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Neck_Mask_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Shoulder_Small_L_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Shoulder_Small_R_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_01_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Helmet_Space_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_02_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Hair_Female_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Male_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Head_Mask_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_GasMask_Thin_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Decal_Graffiti_01": [
+    "Graffiti"
+  ],
+  "SM_Decal_Graffiti_02": [
+    "Graffiti"
+  ],
+  "SM_Decal_Graffiti_03": [
+    "Graffiti"
+  ],
+  "SM_Decal_Graffiti_04": [
+    "Graffiti"
+  ],
+  "SM_Decal_Graffiti_05": [
+    "Graffiti"
+  ],
+  "SM_Decal_Graffiti_06": [
+    "Graffiti"
+  ],
+  "SM_Decal_Graffiti_07": [
+    "Graffiti"
+  ],
+  "SM_Env_Artifact_AlienRuin_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_05_Cables_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_07_Door_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_07_Door_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_AlienRuin_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_Head_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_Head_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Artifact_Head_03": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Asteroid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Asteroid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Blob_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Blob_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Blob_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Blob_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Blob_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Blob_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Cliff_Curved_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Curved_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Curved_Large_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Cliff_Flat_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Flat_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Flat_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Flat_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Flat_05": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Rough_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Cliff_Rough_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_CloudRing_01": [
+    "Clouds"
+  ],
+  "SM_Env_CloudRing_02": [
+    "Clouds"
+  ],
+  "SM_Env_Core_01": [
+    "PolygonScifiWorlds_Mat_01_B"
+  ],
+  "SM_Env_Core_01_Engine_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_01_Runway_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Glass_01"
+  ],
+  "SM_Env_Core_Shell_01": [
+    "Metal_Rust_01"
+  ],
+  "SM_Env_Core_Strut_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Leg_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Leg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Leg_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Node_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Node_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_01_Node_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02_Leg_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02_Leg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02_Leg_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02_Node_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Core_Strut_02_Node_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Cracked_Edge_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_Cracked_Edge_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_Crater_Edge_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Crater_Edge_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Crater_Edge_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Crater_Edge_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Detail_Bridge_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Crater_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Crater_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_Detail_Crater_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_Detail_Crater_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_Detail_Crater_Fill_01": [
+    "PolygonScifiWorlds_Glow_Mat_01"
+  ],
+  "SM_Env_Detail_Crater_Spike_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Detail_Crater_Spike_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Detail_Crater_Spike_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Detail_Crater_Spike_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Detail_Crater_Spiral_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Detail_Platform_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Detail_Platform_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Detail_Platform_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Detail_Round_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Round_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Round_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Soft_Group_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Spikey_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Spikey_Group_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Spikey_Group_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Spire_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Spire_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Detail_Spire_Group_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_DirtRoad_Corner_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_DirtRoad_End_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_DirtRoad_Slope_Down_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_DirtRoad_Slope_Up_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_DirtRoad_Straight_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Floating_Crystal_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Env_Floating_Crystal_02": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Env_Floating_Rocks_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Floating_Rocks_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Floating_Rocks_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Floating_Rocks_Spiral_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Floating_Rocks_Spiral_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Grass_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Grass_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Grass_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Grass_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Grass_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Ground_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Ground_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Ground_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Ground_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Ground_05": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Ground_Blob_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Ground_Greeble_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Ground_Greeble_01_Metal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Ground_Greeble_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Core"
+  ],
+  "SM_Env_Ground_Greeble_02_Metal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Ground_Greeble_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Core"
+  ],
+  "SM_Env_Ground_Greeble_03_Metal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Ground_Greeble_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Core"
+  ],
+  "SM_Env_Ground_Greeble_04_Metal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Ground_Junk_01": [
+    "Junk_Mat"
+  ],
+  "SM_Env_Ground_Junk_02": [
+    "Junk_Mat"
+  ],
+  "SM_Env_Ground_Junk_03": [
+    "Junk_Mat"
+  ],
+  "SM_Env_Ground_Junk_04": [
+    "Junk_Mat",
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Env_Ground_Junk_05": [
+    "Junk_Mat"
+  ],
+  "SM_Env_Ground_Slope_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_Ground_Slope_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Env_LakeEdge_Corner_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_LakeEdge_Corner_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_LakeEdge_Corner_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_LakeEdge_Corner_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_LakeEdge_Corner_05": [
+    "PolygonSciFiWorlds_Env_Triplanar_Scav"
+  ],
+  "SM_Env_Plant_Balloon_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_Group_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_Group_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_Group_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_Tall_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Balloon_Tall_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Bulb_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Bulb_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Cactus_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Cactus_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Cactus_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Coral_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Coral_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Coral_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Fern_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Fern_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Fester_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Fester_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Fester_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Fester_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_Large_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_Large_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_Large_Pod_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Flower_Large_Pod_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Grass_Flower_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Grass_Flower_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Grass_Flower_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Hallowed_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Hallowed_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Hallowed_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Kelp_01": [
+    "Plants_Animated_01"
+  ],
+  "SM_Env_Plant_Kelp_02": [
+    "Plants_Animated_01"
+  ],
+  "SM_Env_Plant_Kelp_03": [
+    "Plants_Animated_01"
+  ],
+  "SM_Env_Plant_Kelp_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Kelp_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Kelp_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_Preset_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_Preset_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_Preset_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Large_Spiral_Preset_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Mushroom_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Mushroom_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Mushroom_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Palm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Palm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Palm_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Pinecone_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Pinecone_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Pinecone_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Shrub_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Shrub_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Small_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Small_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Small_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Spikey_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Spikey_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Spikey_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Succulent_Large_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Env_Plant_Tall_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Tall_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Tall_03": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Plant_Tall_04": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Rock_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_05": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_06": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_07": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_08": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Large_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Large_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Large_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Large_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Spike_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Spike_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Spike_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Rock_Spike_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Skeleton_Preset_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Skeleton_Preset_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Skeleton_Preset_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Skeleton_Preset_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Skeleton_Preset_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Skeleton_Preset_Flesh_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Skeleton_Preset_Flesh_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Skeleton_Preset_Flesh_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Skeleton_Preset_Flesh_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Skeleton_Preset_Flesh_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Env_Snow_Pile_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Snow_Pile_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Snow_Pile_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Snow_Pile_04": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "SM_Env_Snow_Pile_05": [
+    "PolygonSciFiWorlds_Env_Triplanar_Corp"
+  ],
+  "FX_Alien_Insects_01": [
+    "FX_Empty",
+    "FX_Additive"
+  ],
+  "FX_Alien_Insects_02": [
+    "FX_Additive"
+  ],
+  "FX_Core_01": [
+    "FX_Additive"
+  ],
+  "FX_Core_Pillar_01": [
+    "FX_Additive"
+  ],
+  "FX_Core_Pillar_02": [
+    "FX_Additive"
+  ],
+  "FX_Crystal_Floating_01": [
+    "PolygonScifiWorlds_Mat_Plant_Basic_Blue"
+  ],
+  "FX_Crystal_Floating_02": [
+    "PolygonScifiWorlds_Mat_Plant_Basic_Blue"
+  ],
+  "FX_Dust_Blowing_Explorer_01": [
+    "FX_Circle"
+  ],
+  "FX_Dust_Blowing_Scav_01": [
+    "FX_Circle"
+  ],
+  "FX_Dust_Blowing_Snow_01": [
+    "FX_Circle"
+  ],
+  "FX_Dust_Large_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Exhaust_Trail_01": [
+    "FX_Circle"
+  ],
+  "FX_Flame_Booster_Round_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Flame_Booster_Square": [
+    "FX_Addivitve"
+  ],
+  "FX_Fog_Flat_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Laser_Blast_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Smoke_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Laser_Blast_Flash_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Impact_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Large_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Large_Smoke_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Laser_Blast_Large_Flash_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Large_Impact_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Small_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Small_Smoke_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Laser_Blast_Small_Flash_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Laser_Blast_Small_Impact_01": [
+    "FX_Additive_Bright"
+  ],
+  "FX_Radioactive_Bubbles_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Lava_Bubbles_Splash_01": [
+    "FX_Circle"
+  ],
+  "FX_Radioactive_Fog_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Scrap_Floating_Card_Full_01": [
+    "Scrap_Transparent_Mat"
+  ],
+  "FX_Scrap_Floating_Mesh_Full_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "FX_Ships_Flying_01": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "FX_Ships_Flying_02": [
+    "Metal_Greeble_Mat"
+  ],
+  "FX_Ship_Hover_Dust_01": [
+    "Default-Particle"
+  ],
+  "FX_Ship_Hover_Dust_Large_01": [
+    "FX_Circle"
+  ],
+  "FX_Ship_Hover_Dust_Small_01": [
+    "FX_Dark"
+  ],
+  "FX_Smoke_Large_01": [
+    "FX_Dark"
+  ],
+  "FX_Smoke_Large_02": [
+    "FX_Dark"
+  ],
+  "FX_Smoke_Large_White_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Smoke_Large_White_02": [
+    "FX_Addivitve"
+  ],
+  "FX_Smoke_Small_01": [
+    "FX_Addivitve"
+  ],
+  "FX_Snow_Blizzard_01": [
+    "FX_Circle"
+  ],
+  "FX_Snow_Blizzard_Cloud_01": [
+    "FX_Circle"
+  ],
+  "FX_Snow_Heavy_01": [
+    "FX_Circle"
+  ],
+  "FX_Snow_Soft_01": [
+    "FX_Circle"
+  ],
+  "FX_WarpTunnel_01": [
+    "FX_Additive"
+  ],
+  "FX_WarpTunnel_Dots_01": [
+    "FX_Circle"
+  ],
+  "SM_FX_Skydome_01": [
+    "Skybox_Exp"
+  ],
+  "SM_FX_Skydome_Planet_01": [
+    "Planet_01_Material"
+  ],
+  "SM_FX_Skydome_Planet_02": [
+    "Planet_03_Material"
+  ],
+  "SM_FX_Skydone_Sun_01": [
+    "Sun"
+  ],
+  "SM_Generic_CloudRing_03": [
+    "Cloud_Mat"
+  ],
+  "SM_Generic_CloudRing_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_CloudRing_02": [
+    "Cloud_Mat"
+  ],
+  "SM_Prop_Holosign_SynKyng_01": [
+    "FX_Hologram_Sign_Mat"
+  ],
+  "SM_Prop_Holosign_SynKyng_01_Bottles_01": [
+    "FX_Hologram_Sign_Mat"
+  ],
+  "SM_Prop_Holosign_SynKyng_01_Head_01": [
+    "FX_Hologram_Sign_Mat"
+  ],
+  "SM_Prop_Holosign_SynKyng_01_Stars_01": [
+    "FX_Hologram_Sign_Mat"
+  ],
+  "SM_Generic_Cloud_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Cloud_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Cloud_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Cloud_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Cloud_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Grass_Patch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Grass_Patch_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Grass_Patch_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Ground_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Ground_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Ground_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Ground_Flat_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Ground_Tile_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Ground_Tile_2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_SkyDome_01": [
+    "PolygonScifiWorlds_Sky_01"
+  ],
+  "SM_Generic_SkyDome_02": [
+    "PolygonScifiWorlds_Sky_01"
+  ],
+  "SM_Generic_Small_Rocks_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Small_Rocks_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Small_Rocks_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Small_Rocks_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Small_Rocks_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_TreeDead_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_TreeStump_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Tree_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Tree_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Tree_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Generic_Tree_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_05_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_05_Leg_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_05_Leg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Antenna_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BackbackSatellite_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BackbackSatellite_01_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BackbackSatellite_01_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BackbackSatellite_01_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BackbackSatellite_01_Arm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BackbackSatellite_01_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BatteryPack_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BatteryPack_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_BatteryPack_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bed_Double_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bed_Double_01_Blinds_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bed_Single_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bench_Seat_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bench_Seat_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bike_Hitch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Bike_Hitch_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Buoy_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cable_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cable_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cable_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cable_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cable_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cable_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_Pole_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_Preset_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_Preset_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Canopy_Preset_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cardboard_Box_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cardboard_Box_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cardboard_Box_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cardboard_Box_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cardboard_Box_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_CardReader_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Cash_Register_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_01_Pivot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_01_Armrest_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_01_Back_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_01_Headrest_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_02_Pivot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_02_Backrest_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Chair_04_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Container_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Container_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Container_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Crate_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_01_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_02_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_04_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_05_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_06_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_07_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_07_Lid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_08_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_09_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_10_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_11_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_11_Lid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_12_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_13_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_13_Lid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_14_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_14_Lid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_15": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Crate_15_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_01_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_01_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_02_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_02_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_03_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_03_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_04_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Hinge_04_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Motor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Extension_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Drill_Head_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Drill_Head_01_Cone_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Drill_Head_01_Cone_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_01_Drill_Head_01_Cone_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Leg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Leg_01_Foot_01 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Leg_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Leg_01_Foot_01 2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Motor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Extension_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Extension_01 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Extension_01 2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Drill_Head_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Drill_Head_01_Cone_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Drill_Head_01_Cone_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_02_Drill_Head_01_Cone_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Leg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Leg_01_Foot_01 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Leg_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Leg_01_Foot_01 2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Motor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Extension_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Extension_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Extension_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_03_Drill_Head_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Leg_01_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Leg_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Leg_02_Foot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Motor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Extension_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_04_Drill_Head_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drill_Plate_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_01_Wing_l": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_01_Wing_r": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_02_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_02_Arm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_02_Claw_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_02_Claw_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Drone_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Fuel_Cell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Fuel_Cell_01_Lid": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_HoverPad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Hydroponic_Planter_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Hydroponic_Planter_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Hydroponic_Planter_02_Insert_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Hydroponic_Plant_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Hydroponic_Plant_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Hydroponic_Plant_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Cardboard_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Paper_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Paper_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Paper_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junk_Paper_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Keyboard_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Locker_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Locker_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Locker_01_Shelf_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_01_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_01_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_01_Arm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_01_Screen_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_02_Screen_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_02_Screen_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_02_Screen_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_02_Screen_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_02_Screen_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_03_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Monitor_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_04_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_04_Arm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_04_Arm_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_04_Screen_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_05_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Monitor_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_08_Screen_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_08_Screen_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_09_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Monitor_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Monitor_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PDA_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Pod_Pipe_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Prop_Pod_Pipe_01_Connector_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Prop_Pod_Pipe_01_Connector_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Prop_Pod_Pipe_01_End_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Prop_PowerCellCharger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCellCharger_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCellCharger_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCellCharger_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCell_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCell_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerCell_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerGenerator_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Prop_PowerGenerator_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_PowerGenerator_01_PowerCell_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Prop_PowerGenerator_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerGenerator_02_Chamber_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerGenerator_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_PowerGenerator_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_PowerGenerator_03_Gear_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Powerline_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Powerline_Antenna_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Projection_Table_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_01_Pivot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_01_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_02_Sensor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_02_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_02_Arm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_02_Arm_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_02_Arm_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_03_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_03_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_04_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_04_Swivel_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_04_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_05_Sensor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_06_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_06_Dish_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_06_Dish_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_Leg_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_Leg_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_Leg_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_Leg_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_Stand_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_Dish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_DishArm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_DishArm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_DishArm_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_07_DishArm_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_CrateSwivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_CrateArm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_CrateArm_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_CrateArm_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_CrateDish_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Satellite_08_Lid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Scanner_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Scav_Barrel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Sofa_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_01_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_01_Panel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_01_Panel_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_01_Panel_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_02_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_02_Panel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_03_Panel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_04_Swivel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_04_Swivel_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SolarPanel_04_Panel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Suit_Hanging_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SwipeCard_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_SwipeCard_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Syncola_Can_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Syncola_Can_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Syncola_Can_Stack_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Syncola_Can_Stack_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Syncola_Can_Stack_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Table_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Table_Medium_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Table_Small_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Pole_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Pole_Tall_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Pole_Tall_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_Broken_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_Broken_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_Ship_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Tether_Wire_Tilt_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_TrashBin_01": [
+    "PolygonScifiWorlds_Mat_01_A_Triplanar"
+  ],
+  "SM_Prop_TrashBin_01_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A_Triplanar"
+  ],
+  "SM_Prop_Turbine_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_01_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_01_TurrerArm_l_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_01_Barrel_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_01_TurrerArm_r_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_01_Barrel_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Arm_l_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Barrel_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Barrel_l_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Arm_r_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Barrel_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_02_Barrel_r_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_03_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_03_Launcher_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_03_Missiles_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Large_03_Missiles_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Medium_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Medium_01_Pivot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Medium_01_Gun_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Turret_Medium_01_Barrell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_01_Glass": [
+    "Glass_01"
+  ],
+  "SM_Prop_Vending_Machine_02": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "CatFace_Mat"
+  ],
+  "SM_Prop_Vending_Machine_02_Sign_01": [
+    "Glass_01",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_02_Sign_02": [
+    "Glass_01",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_03_Drum_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_03_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Vending_Machine_03_Sign_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_03_Stick_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Vending_Machine_04_Topper_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_04_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_04_Arm_02": [
+    "Default-Material"
+  ],
+  "SM_Prop_Vending_Machine_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vending_Machine_05_Sign_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Arm_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Block_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Bug_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Bug_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Bug_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Bug_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Cooker_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Cooker_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Fork_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Ham_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Knife_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Knives_Hanging_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pans_Hanging_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pans_Hanging_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pans_Hanging_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_Bowls_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_Bowl_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_Insert_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Pan_Insert_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Plate_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Plate_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Product_14_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Prop_Vendor_Product_14_Plant_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Rib_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Spatch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Tentacle_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Tentacle_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Tool_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Tool_01_Trigger": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Tool_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_Tool_02_Trigger": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Vendor_TV_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_06"
+  ],
+  "SM_Prop_Wall_Unit_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Wall_Unit_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Alien_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_02": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_03": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_04": [
+    "PolygonScifiWorlds_Mat_04_B"
+  ],
+  "SM_Wep_Alien_04_Scope_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Alien_04_Trigger_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Assault_01": [
+    "PolygonScifiWorlds_Mat_01_C"
+  ],
+  "SM_Wep_Assault_01_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_C"
+  ],
+  "SM_Wep_Assault_01_Scope_01": [
+    "PolygonScifiWorlds_Mat_01_C"
+  ],
+  "SM_Wep_Assault_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Assault_02": [
+    "PolygonScifiWorlds_Mat_02_C"
+  ],
+  "SM_Wep_Assault_02_ForeBarrel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Assault_02_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Assault_02_RedDot_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Assault_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Assault_03": [
+    "PolygonScifiWorlds_Mat_03_B"
+  ],
+  "SM_Wep_Assault_03_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Assault_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_01_Scope_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Chamber_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Grenade_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Grenade_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Grenade_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Grenade_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Grenade_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Grenade_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Heavy_03": [
+    "PolygonScifiWorlds_Mat_04_B"
+  ],
+  "SM_Wep_Heavy_03_Mag_01": [
+    "PolygonScifiWorlds_Mat_04_B"
+  ],
+  "SM_Wep_Heavy_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Launcher_01": [
+    "PolygonScifiWorlds_Mat_03_C"
+  ],
+  "SM_Wep_Launcher_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Launcher_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "Rocket_Trig": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Launcher_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Launcher_03": [
+    "PolygonScifiWorlds_Mat_04_C"
+  ],
+  "SM_Wep_Launcher_03_RedDot_01": [
+    "PolygonScifiWorlds_Mat_04_C"
+  ],
+  "SM_Wep_Launcher_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Missile_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_01_Scope_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_02": [
+    "PolygonScifiWorlds_Mat_03_C"
+  ],
+  "SM_Wep_Pistol_02_Cylander_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_02_Hammer_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_04_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_04_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_05_Scope_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_05_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Pistol_06_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_01_Barrel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_01_Shell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_02": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Wep_Shotgun_02_Forestock_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_03_Forestock_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_05_Cell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shotgun_05_Cell_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SMG_01": [
+    "PolygonScifiWorlds_Mat_02_A"
+  ],
+  "SM_Wep_SMG_01_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SMG_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SMG_Switch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SMG_Switch_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SMG_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Core"
+  ],
+  "SM_Wep_SMG_Switch_03": [
+    "PolygonSciFiWorlds_Env_Triplanar_Core"
+  ],
+  "SM_Wep_SMG_03": [
+    "PolygonScifiWorlds_Mat_03_B"
+  ],
+  "SM_Wep_SMG_03_Scope_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SMG_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sniper_01": [
+    "PolygonScifiWorlds_Mat_02_B"
+  ],
+  "SM_Wep_Sniper_01_Scope_01": [
+    "PolygonScifiWorlds_Mat_02_C"
+  ],
+  "SM_Wep_Sniper_01_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sniper_02": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Sniper_02_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sniper_02_Scope_01": [
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Wep_Sniper_02_Trigger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sniper_03": [
+    "PolygonScifiWorlds_Mat_03_B"
+  ],
+  "SM_Wep_Sniper_03_Mag_01": [
+    "PolygonScifiWorlds_Mat_03_B"
+  ],
+  "SM_Wep_Sniper_03_Scope_01": [
+    "PolygonScifiWorlds_Mat_03_B"
+  ],
+  "SM_Wep_Sniper_03_Trigger_01": [
+    "PolygonScifiWorlds_Mat_03_B"
+  ],
+  "SM_Chr_Attach_Backpack_Cage_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Backpack_Cage_Back_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Backpack_Cage_Top_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Backpack_Cloth_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Backpack_Cloth_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Backpack_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "PolygonScifiWorlds_Mat_02_A",
+    "PolygonScifiWorlds_Mat_03_A",
+    "PolygonScifiWorlds_Mat_04_A"
+  ],
+  "SM_Chr_Attach_Backpack_Metal_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Backpack_Tanks_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Beard_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Beard_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Beard_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Beard_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Bottle_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_ChestPlate_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Female_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Female_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Male_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hair_Male_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hat_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Hat_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Helmet_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_03_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Helmet_Space_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_04_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Helmet_Space_05": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Default-Material"
+  ],
+  "SM_Chr_Attach_Helmet_Space_05_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Helmet_Space_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Helmet_Space_06_Glass": [
+    "Glass_01"
+  ],
+  "SM_Chr_Attach_Patch_Ammo_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Patch_Medic_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Patch_Repair_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_Ammo_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_Mag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_Mag_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_Mag_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Pouch_Medic_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Shoulder_Large_L_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_Shoulder_Large_L_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_01_Hair_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_02_Hair_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_02_Hair_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_03_Hair_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Chr_Attach_VR_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "FX_Floating_Rocks_Spiral_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "FX_Floating_Rocks_Spiral_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "FX_Floating_Rocks_Straight_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "FX_Floating_Rocks_Straight_02": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "FX_Floating_Rocks_Straight_Large_01": [
+    "PolygonSciFiWorlds_Env_Triplanar_Exp"
+  ],
+  "SM_Prop_Skeleton_Skull_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Skull_Jaw_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_Broken_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_Broken_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_Broken_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_Broken_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Skeleton_Spine_End_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Female_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Female_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Female_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Female_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Female_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Male_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Male_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Male_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Male_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Junky_Male_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Scav_Scrap_01": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_02": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_03": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_04": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_05": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_06": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_07": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_08": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_09": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_10": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_11": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_12": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_13": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_14": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_15": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_16": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_17": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_18": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_19": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_20": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_21": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_22": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_23": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_24": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_25": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_26": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_27": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_28": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_29": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_30": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_31": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_32": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_33": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_34": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_35": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_36": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_37": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_38": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_39": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_40": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_41": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_42": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_43": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_44": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_45": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_46": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_47": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_48": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_49": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_50": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_51": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_52": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_53": [
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_54": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Scav_Scrap_55": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Scav_Scrap_56": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Scav_Scrap_Pile_01": [
+    "PolygonScifiWorlds_Mat_03_A",
+    "Junk_Mat"
+  ],
+  "SM_Prop_Scav_Scrap_Pile_02": [
+    "PolygonScifiWorlds_Mat_03_A",
+    "Junk_Mat"
+  ],
+  "SM_Prop_Scav_Scrap_Pile_03": [
+    "Junk_Mat",
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Scav_Scrap_Pile_04": [
+    "Junk_Mat",
+    "PolygonScifiWorlds_Mat_03_A"
+  ],
+  "SM_Prop_Alien_Letter_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_15": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_16": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_17": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_18": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_19": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_20": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_21": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_22": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_23": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_24": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_25": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_26": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_27": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_28": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_29": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_30": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_31": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_32": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_33": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_34": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_35": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Alien_Letter_36": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_A": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_B": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_C": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_D": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_E": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_F": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_G": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_01_H": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_A": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_B": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_C": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_D": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_E": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_F": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_G": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_02_H": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_A": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_B": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_C": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_D": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_E": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_F": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_G": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_03_H": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_A": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_B": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_C": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_D": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_E": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_F": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_G": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_04_H": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_A": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_B": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_C": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_D": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_E": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_F": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_G": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_05_H": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_A": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_B": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_C": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_D": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_E": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_F": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_G": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Banner_06_H": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Bld_Billboard_01_Glass_01": [
+    "Sign_01"
+  ],
+  "SM_Prop_Billboard_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_03": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_12"
+  ],
+  "SM_Prop_Billboard_04": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_10"
+  ],
+  "SM_Prop_Billboard_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_05_Glass_01": [
+    "Sign_02"
+  ],
+  "SM_Prop_Billboard_05_Glass_02": [
+    "Sign_10"
+  ],
+  "SM_Prop_Billboard_05_Glass_03": [
+    "Sign_13"
+  ],
+  "SM_Prop_Billboard_05_Glass_04": [
+    "Sign_05"
+  ],
+  "SM_Prop_Billboard_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_06_Glass_01": [
+    "Sign_15"
+  ],
+  "SM_Prop_Billboard_06_Glass_02": [
+    "Sign_07"
+  ],
+  "SM_Prop_Billboard_06_Glass_03": [
+    "Sign_11"
+  ],
+  "SM_Prop_Billboard_06_Glass_04": [
+    "Sign_09"
+  ],
+  "SM_Prop_Billboard_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_07_Glass_01": [
+    "Sign_09"
+  ],
+  "SM_Prop_Billboard_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_08_Glass_01": [
+    "Sign_05"
+  ],
+  "SM_Prop_Billboard_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_09_Glass_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_11",
+    "Sign_12",
+    "Sign_09",
+    "Sign_08"
+  ],
+  "SM_Prop_Billboard_09_Glass_02": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_03",
+    "Sign_07",
+    "Sign_04",
+    "Sign_06"
+  ],
+  "SM_Prop_Billboard_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_10_Glass_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_01",
+    "Sign_10",
+    "Sign_13",
+    "Sign_11"
+  ],
+  "SM_Prop_Billboard_10_Glass_02": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_13",
+    "Sign_02",
+    "Sign_01",
+    "Sign_05"
+  ],
+  "SM_Prop_Billboard_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Billboard_11_Glass_01": [
+    "Sign_04"
+  ],
+  "SM_Prop_Billboard_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_Syntanium"
+  ],
+  "SM_Prop_Billboard_Large_02": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_12"
+  ],
+  "SM_Prop_Poster_01": [
+    "Sign_04",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Poster_02": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_08"
+  ],
+  "SM_Prop_Poster_03": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_15"
+  ],
+  "SM_Prop_Poster_04": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_06"
+  ],
+  "SM_Prop_Poster_05": [
+    "Sign_09",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Poster_06": [
+    "PolygonScifiWorlds_Mat_01_A",
+    "Sign_16"
+  ],
+  "SM_Prop_Poster_07": [
+    "Sign_01",
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Sign_01": [
+    "PolygonScifiWorlds_Mat_01_B"
+  ],
+  "SM_Prop_Sign_02": [
+    "PolygonScifiWorlds_Mat_01_B"
+  ],
+  "SM_Prop_Symbol_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_09": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_10": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_11": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_12": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_13": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_14": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_15": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_16": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_17": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_18": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_19": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_20": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_21": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Prop_Symbol_22": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_SuspensionArm_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_WheelBase_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Wheel_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_SuspensionArm_lm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_WheelBase_lm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Wheel_lm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_SuspensionArm_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_WheelBase_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Wheel_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_SuspensionArm_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_WheelBase_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Wheel_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_SuspensionArm_rm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_WheelBase_rm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Wheel_rm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_SuspensionArm_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_WheelBase_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_01_Wheel_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Door_l": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Door_r": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Wheel_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Wheel_lm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Wheel_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Wheel_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Wheel_rm": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Apc_02_Wheel_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_ControlRoom_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_ControlRoom_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_ControlRoom_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Veh_Barge_01_FrontRamp_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_SideRamp_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_SideRamp_r_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_Swivel_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_Booster_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_Swivel_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Barge_01_Booster_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Veh_Buggy_01_SteeringWheel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_SuspensionArm_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_WheelBase_lf_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_Wheel_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_SuspensionArm_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_WheelBase_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_Wheel_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_SuspensionArm_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_WheelBase_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_Wheel_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_SuspensionArm_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_WheelBase_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Buggy_01_Wheel_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_DropShip_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_DropShip_01_CargoDoor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_DropShip_01_Cockpit_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_DropShip_01_Engine_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_DropShip_01_Engine_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_DropShip_01_Glass_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01_Booster_l": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01_Booster_r": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Veh_HoverCraft_01_Gun_l": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01_Gun_r": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverCraft_01_SteeringWheel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_HoverPad_fl": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_HoverPad_fr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_HoverPad_ml": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_HoverPad_mr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_HoverPad_rl": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_HoverPad_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Turret_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Barrell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Barrell_01 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Hatch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base_HoverPad_fl": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base_HoverPad_fr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base_HoverPad_ml": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base_HoverPad_mr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base_HoverPad_rl": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_01_Base_HoverPad_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_1 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_2 1": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_1 2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_2 2": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_1 3": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_HoverPad_2 3": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Turret_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Barrel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Hatch_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_lf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_lf_Pad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_lf_Pad_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_lr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_lr_Pad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_lr_Pad_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_rf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_rf_Pad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_rf_Pad_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_rr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_rr_Pad_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_02_Base_rr_Pad_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_lff": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_lmf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_lmr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_lrr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_rff": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_rmf": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_rmr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_HoverPad_rrr": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_Turret_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_Barrel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_HoverTank_03_Barrel_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_01_FootRests_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Veh_Hover_Bike_01_Handle_Bars_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_FootRests_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Handle_Bars_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Seat_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Steering_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Attach_Cargo_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Attach_Cargo_01_Lid_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Attach_Cargo_01_Lid_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Attach_Cargo_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_02_Attach_Dome_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_Attach_Bag_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_Attach_Bag_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_Attach_Bag_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Hover_Bike_Attach_Bedroll_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Rocket_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Rocket_01_Flap_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Rocket_01_Flap_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Rocket_01_Flap_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Rocket_01_Flap_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Scav_Lifter_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Scav_Lifter_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_01_TurrerArm_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_01_Barrel_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_01_TurrerArm_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_01_Barrel_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02_Arm_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02_Barrel_l_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02_Barrel_l_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02_Arm_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02_Barrel_r_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_02_Barrel_r_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_03_Launcher_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_03_Missiles_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Large_03_Missiles_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Medium_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Medium_01_Gun_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Turret_Medium_01_Barrell_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_01_Handle_l": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_01_Trigger_l": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_01_Handle_r": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_01_Trigger_r": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Door_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Veh_Vendor_Tug_01_Wheel_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Barrels_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Bow_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_02_Rudder_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Front_Fin_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Port_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Roof_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sail_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Shelves_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Tech_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_Preset_01": [
+    "PolygonScifiWorlds_Mat_04_B"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Roof_02 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Shelves_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Shelves_01 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_Preset_02": [
+    "PolygonScifiWorlds_Mat_02_B"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Roof_02 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_02 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_03 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_02 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Bow_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Tech_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Barrels_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Barrels_01 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Port_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Port_01 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_Preset_03": [
+    "PolygonScifiWorlds_Mat_04_C"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_04 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Bow_01 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Roof_02 (3)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sail_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Tech_01 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_04 (2)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_Preset_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Roof_02 (4)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Sign_02 (2)": [
+    "PolygonScifiWorlds_Mat_03_C"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Shelves_01 (3)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Shelves_01 (4)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Port_01 (3)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Port_01 (4)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Fin_01 (1)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Veh_Vendor_Tug_01_Attach_Tech_01 (4)": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_BigAxe_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Dagger_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Hammer_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Hammer_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Hammer_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shield_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shield_01_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Wep_Shield_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shield_02_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Wep_Shield_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shield_03_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Wep_Shield_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shield_04_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Wep_Shield_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Shield_05_Glass_01": [
+    "Glass_01"
+  ],
+  "SM_Wep_SmallAxe_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SmallAxe_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SmallAxe_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SmallAxe_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_SmallAxe_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_01a": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_04": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_05": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_06": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_07": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Sword_08": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Alien_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Small_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Small_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Small_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Sniper_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Sniper_02": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Sniper_03": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ],
+  "SM_Wep_Scope_Unique_01": [
+    "PolygonScifiWorlds_Mat_01_A"
+  ]
+}

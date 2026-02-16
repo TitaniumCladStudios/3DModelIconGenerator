@@ -1,0 +1,59 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Tool-Testing-Grounds"
+run/main_scene="res://viewport.tscn"
+config/features=PackedStringArray("4.6", "Forward Plus")
+config/icon="res://icon.svg"
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+rendering_device/driver.windows="d3d12"
+
+[shader_globals]
+
+WindDirection={
+"type": "vec3",
+"value": Vector3(1, 0, 0)
+}
+WindIntensity={
+"type": "float",
+"value": 0.5
+}
+GaleStrength={
+"type": "float",
+"value": 0.0
+}
+MainLightDirection={
+"type": "vec3",
+"value": Vector3(0.5, -0.5, 0)
+}
+SkyColor={
+"type": "color",
+"value": Color(0.5, 0.7, 1, 1)
+}
+EquatorColor={
+"type": "color",
+"value": Color(1, 0.9, 0.8, 1)
+}
+GroundColor={
+"type": "color",
+"value": Color(0.4, 0.4, 0.3, 1)
+}
+OceanWavesGradient={
+"type": "sampler2D",
+"value": ""
+}

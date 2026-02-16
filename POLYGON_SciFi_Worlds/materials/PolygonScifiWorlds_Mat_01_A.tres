@@ -1,0 +1,22 @@
+[gd_resource type="ShaderMaterial" load_steps=5 format=3]
+
+[ext_resource type="Shader" path="res://shaders/polygon.gdshader" id="1"]
+[ext_resource type="Texture2D" path="res://POLYGON_SciFi_Worlds/textures/PolygonScifiWorlds_Texture_01_A.png" id="2"]
+[ext_resource type="Texture2D" path="res://POLYGON_SciFi_Worlds/textures/Emissive_01.png" id="3"]
+[ext_resource type="Texture2D" path="res://POLYGON_SciFi_Worlds/textures/PolygonScifiWorlds_Texture_A_01_Normal_8k.png" id="4"]
+
+[resource]
+shader = ExtResource("1")
+shader_parameter/base_texture = ExtResource("2")
+shader_parameter/emission_texture = ExtResource("3")
+shader_parameter/normal_texture = ExtResource("4")
+shader_parameter/enable_emission_texture = true
+shader_parameter/enable_normal_texture = true
+shader_parameter/alpha_clip_threshold = 0.5
+shader_parameter/ao_intensity = 1.0
+shader_parameter/detail_normal_scale = 1.0
+shader_parameter/metallic = 0.0
+shader_parameter/normal_intensity = 1.0
+shader_parameter/smoothness = 0.2
+shader_parameter/color_tint = Color(1.0, 1.0, 1.0, 1.0)
+shader_parameter/emission_color = Color(0.610294, 0.967748, 1.0, 1.0)

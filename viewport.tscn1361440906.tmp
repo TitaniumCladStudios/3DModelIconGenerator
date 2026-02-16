@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://cex7fcflxc8gj"]
+
+[ext_resource type="Script" uid="uid://tix2spduv7sa" path="res://icon_studio.gd" id="1_script"]
+[ext_resource type="PackedScene" path="res://POLYGON_SciFi_Worlds/meshes/tscn_separate/SK_Veh_Turret_Large_012.tscn" id="2_rx586"]
+[ext_resource type="PackedScene" path="res://POLYGON_SciFi_Worlds/meshes/tscn_separate/SM_Prop_Turret_Large_02.tscn" id="2_turret"]
+
+[node name="IconStudio" type="Node3D" unique_id=699027719]
+script = ExtResource("1_script")
+
+[node name="ObjectPivot" type="Node3D" parent="." unique_id=420496215]
+
+[node name="SM_Prop_Turret_Large_02" parent="ObjectPivot" unique_id=585367621 instance=ExtResource("2_turret")]
+
+[node name="SK_Veh_Turret_Large_012" parent="ObjectPivot" unique_id=434524567 instance=ExtResource("2_rx586")]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, 0, 1.6, 0)

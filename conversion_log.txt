@@ -1,0 +1,28 @@
+
+================================================================================
+Conversion: POLYGON_SciFi_Worlds
+Date: 2026-02-16 09:17:34
+================================================================================
+Unity Package: C:\Users\godie\Documents\Near\Assets\POLYGON_SciFi_Worlds_Unity_2021_3_v1_11_1.unitypackage
+Source Files: C:\Users\godie\Documents\Near\Assets\POLYGON_SciFiWorlds_SourceFiles_v4
+Output Directory: C:\Users\godie\GodotProjects\tool-testing-grounds
+Dry Run: False
+
+Statistics:
+  Materials Parsed: 107
+  Materials Generated: 1
+  Materials Missing: 60
+  Textures Copied: 3
+  Textures Fallback: 0
+  Textures Missing: 0
+  Shaders Copied: 7
+  FBX Files Copied: 12
+  FBX Files Skipped: 0
+  Meshes Converted: 46
+
+Godot CLI Status:
+  Import Success: True
+  Convert Success: True
+  Timeout Occurred: False
+
+================================================================================

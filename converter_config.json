@@ -1,0 +1,9 @@
+{
+  "pack_name": "POLYGON_SciFi_Worlds",
+  "keep_meshes_together": false,
+  "mesh_format": "tscn",
+  "filter_pattern": "Turret",
+  "mesh_scale": 1.0,
+  "output_subfolder": null,
+  "flatten_output": true
+}
