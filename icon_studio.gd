@@ -41,6 +41,10 @@ var _angle_label: Label
 
 
 func _ready() -> void:
+	# Anti-aliasing: MSAA smooths geometry edges, FXAA catches the rest
+	get_viewport().msaa_3d = Viewport.MSAA_4X
+	get_viewport().screen_space_aa = Viewport.SCREEN_SPACE_AA_FXAA
+
 	_build_environment()
 	_build_lighting()
 	_build_camera()
